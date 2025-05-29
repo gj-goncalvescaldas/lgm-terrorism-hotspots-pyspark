@@ -1,5 +1,7 @@
 # Terrorism Hotspots
 
+I recommend downloading the HTML file to view the interactive Databricks visualizations properly.
+
 ## 📥 Download Datasets
 
 This data project has been used as an assignment during the **LGM Data Science Virtual Internship**.
